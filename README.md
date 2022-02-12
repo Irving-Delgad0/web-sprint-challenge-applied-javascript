@@ -60,7 +60,12 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Demonstrate your understanding of this week's concepts by answering the following questions:
 
 1. What is the DOM?
+The document object model is what allows developers to manipulate content of a page
 2. What is an event?
+events are things that happen to elements. like clicking a button or a certain part of a website (like a header or footer)
 3. What is an event listener?
+is what tells the website what type of event to look for and what to do when said event is triggered
 4. Why would we convert a NodeList into an Array?
+so its easier to manipulate by looping over the array instead of writing code for each separate node 
 5. What is a component?
+a function that allows developers to write reusable code so its faster to add data to a website
